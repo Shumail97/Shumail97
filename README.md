@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making projects more interesting.
 - 📫 How to reach me : +31687283012
 - 😄 Pronouns: Him
-- ⚡ Fun fact: im day dreamer.
+
 
 <!---
 Shumail97/Shumail97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
