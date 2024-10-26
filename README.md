@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shamail Ahmad
-- 👀 I’m interested in IT Stuff like Programming and Hardware stuff.
+- 👀 I’m interested in IT like Programming and Hardware stuff.
 - 🌱 I’m currently learning Web Development using Html, Css, JS, React, MangoDb, SQl , Github.
 - 💞️ I’m looking to collaborate on making projects more interesting.
 - 📫 How to reach me : +31687283012
