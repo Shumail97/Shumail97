@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT like Programming and Hardware stuff.
 - 🌱 I’m currently learning Web Development using Html, Css, JS, React, MangoDb, SQl , Github.
 - 💞️ I’m looking to collaborate on doing more projects.
-- 📫 How to reach me : +31687283012
+- 📫 How to reach me : shumailahmad97th@gmail.com 
 - 😄 Pronouns: Him
 
 
